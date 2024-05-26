@@ -5,11 +5,14 @@
 # 1. Aktor yang terlibat
 - Anak
 - Orang Tua
-- Staff
 - Admin
-
+- Staff
+  
 # 2. UseCase
+![image](https://github.com/farahtrim22/APBO-DAYCARE/blob/main/Use%20Case%20Daycare.png)
 
 # 3. Class Diagram
+![image](https://github.com/farahtrim22/APBO-DAYCARE/blob/main/Class%20Diagram%20Daycare.png)
 
 # 4. ERD
+![image](https://github.com/farahtrim22/APBO-DAYCARE/blob/main/ERD%20Daycare.png)
